@@ -673,14 +673,16 @@ upholding ethical standards and adapting culturally.
 > 2\. **Break** **Down** **the** **Goal** **(Goblin.tools):**
 >
 > ● Identify easily explained, data-driven, metric based universal
-> principles ○ Research cultural norms
+> principles
+>
+> ● Research cultural norms
 >
 > ● Integrate the iterative alignment model
 >
 > ● Establish feedback loops for monitoring (ethical scores, cultural
 > responsiveness)
 >
-> 3. **Refine** **with** **Top** **AI** **Models:**
+> 3\. **Refine** **with** **Top** **AI** **Models:**
 >
 > ● Top AI Models suggest best practices, address cultural
 > considerations, and propose solutions to ethical dilemmas.
@@ -690,10 +692,10 @@ upholding ethical standards and adapting culturally.
 > ● Use coding assistants, compliance tools, and analytics to build
 > prototypes.
 >
-> ○ Test with sample scenarios, measure Ethical Alignment
+> ● Test with sample scenarios, measure Ethical Alignment
 > Scores, gather user feedback.
 >
-> 5. **Iterate** **&** **Improve:**
+> 5\. **Iterate** **&** **Improve:**
 >
 > ● Conduct regular audits. If Ethical Alignment Score or Cultural
 > Responsiveness Index dips below a target threshold (e.g., 8/10),
