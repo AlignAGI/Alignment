@@ -261,15 +261,18 @@ collective journey rather than straying from our shared values.
 >
 > ● Embracing Continuous Growth and Adaptation
 >
-> ● The Intelliman: Intelligence Through Choice and Creativity ○ The
-> Golden Rule: A Universal Ethical Anchor
+> ● The Intelliman: Intelligence Through Choice and Creativity
+>
+> ● The Golden Rule: An Easily Explained, Data-Driven, Metric Based Universal Ethical Anchor
 >
 > **3.** **Core** **Guiding** **Principles** **for** **AGI**
 >
 > ● Beyond Human-Centric Morals
 >
 > ● Adaptive, Evolving Easily Explained, Data-Driven, Metric Based
-> Ethics ○ Embedding Feedback Loops and Iteration
+> Ethics
+>
+> ● Embedding Feedback Loops and Iteration
 >
 > **4.** **Practical** **Alignment** **Framework**
 >
@@ -278,13 +281,17 @@ collective journey rather than straying from our shared values.
 >
 > ● Iterative Learning: Adapting Through Experience
 >
-> ● Concrete Example: Metric Based Ethical Resource Allocation ○
-> Technical Note: Integrating the Master Index into AI Systems
+> ● Concrete Example: Metric Based Ethical Resource Allocation
+>
+> ● Technical Note: Integrating the Master Index into AI Systems
 >
 > **5.** **Safeguards** **and** **Fail-Safes**
 >
-> ● Ethical Stress-Testing (Red-Teaming) ○ Contingency Protocols and
-> Rollbacks ○ Crisis Handling Protocol
+> ● Ethical Stress-Testing (Red-Teaming)
+>
+> ● Contingency Protocols and Rollbacks
+>
+> ● Crisis Handling Protocol
 >
 > ● Regular Audits by Diverse Stakeholders
 >
@@ -292,8 +299,9 @@ collective journey rather than straying from our shared values.
 >
 > ● Inclusive Engagement with Local Values
 >
-> ● The Convergence Room: Bridging Tradition and Technology ○
-> Storytelling and Emotional Resonance
+> ● The Convergence Room: Bridging Tradition and Technology
+>
+> ● Storytelling and Emotional Resonance
 >
 > ● Integrating Cultural Feedback: A Step-by-Step Outline
 >
@@ -301,8 +309,9 @@ collective journey rather than straying from our shared values.
 >
 > ● Quick Policy Recommendations
 >
-> ● Alignment with International Guidelines ○ Open-Source Tools for
-> Researchers
+> ● Alignment with International Guidelines
+>
+> ● Open-Source Tools for Researchers
 >
 > ● Accessible Education for the Public
 >
@@ -571,7 +580,6 @@ to community values and laws.
 Our iterative alignment model references a dynamic set of universal
 easily explained, data-driven, metric based ethical principles, using
 feedback loops, context analysis, and
-
 educational triggers to refine AI responses. A range of tools (e.g.,
 Goblin.tools, Top AI Models) break down goals into actionable steps.
 Optional technical appendices outline how retraining, dataset updates,
