@@ -49,6 +49,6 @@ Jason William LaMonica
 
 Email: AlignAGI@gmail.com
 Social Media:
-X (Twitter): @AlignAGI
-YouTube: youtube.com/@AlignAGI
+X (Twitter): [@AlignAGI](https://x.com/AlignAGI)
+YouTube: [youtube.com/@AlignAGI](https://www.youtube.com/@AlignAGI)
 Together, we can ensure that AI remains a force for good.
