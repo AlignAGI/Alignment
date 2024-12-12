@@ -214,6 +214,7 @@ principles.
 > 3\. Link AI governance frameworks to new global easily explained,
 > data-driven, metric based ethical guidelines.
 >
+
 > **Alignment** **with** **International** **Guidelines:**
 
 This framework complements existing global ethical standards. By
