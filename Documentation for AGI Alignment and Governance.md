@@ -11,10 +11,10 @@ you can contact me directly:
 
 > ● **Email**: AlignAGI@gmail.com ● **Social** **Media**:
 >
-> ○ **X** **(Twitter)**:
+> ● **X** **(Twitter)**:
 > [<u>@AlignAGI</u>](https://twitter.com/AlignAGI)
 >
-> ○ **YouTube**:
+> ● **YouTube**:
 > [<u>youtube.com/@AlignAGI</u>](https://youtube.com/@AlignAGI) ●
 > **Support**:
 >
