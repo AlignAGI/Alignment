@@ -11,7 +11,8 @@ you can contact me directly:
 
 > ● **Email**: AlignAGI@gmail.com
 >
->  ● **Social** **Media**:
+> ● **Social** **Media**:
+>
 > ● **X** **(Twitter)**:
 > [<u>@AlignAGI</u>](https://twitter.com/AlignAGI)
 >
