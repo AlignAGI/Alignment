@@ -17,10 +17,9 @@ you can contact me directly:
 > [<u>@AlignAGI</u>](https://twitter.com/AlignAGI)
 >
 > ● **YouTube**:
-> [<u>youtube.com/@AlignAGI</u>](https://youtube.com/@AlignAGI) ●
+> [<u>youtube.com/@AlignAGI</u>](https://youtube.com/@AlignAGI)
 >
-> **Support**:
->
+> ● **Support** 
 > To support this vital work, consider contributing to:
 >
 > ○ **Buy** **Me** **a** **Coffee**:
