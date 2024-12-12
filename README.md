@@ -1,4 +1,5 @@
 #Alignment #AlignAGI
+
 Promoting global awareness and action for ethical AI alignment and safeguarding humanity against AI self-replication risks.
 Includes research, frameworks, and open-source resources.
 
@@ -7,7 +8,7 @@ Alignment: Ethical AI Advocacy and Safeguarding Humanity
 Overview:
 AlignAGI is an initiative dedicated to raising global awareness and fostering actionable solutions for ethical AI alignment. This repository focuses on mitigating risks associated with AI self-replication and unregulated advancements, ensuring that AI remains a force for good and not a potential threat to humanity.
 
-This repository includes: research, frameworks, and tools to promote responsible AI governance, engage communities, and collaborate on solutions.
+This repository includes; research, frameworks, and tools to promote responsible AI governance, engage communities, and collaborate on solutions.
 
 Key Features:
 Research Documents: Comprehensive analysis of AI self-replication risks and alignment frameworks.
@@ -15,7 +16,7 @@ Mitigation Strategies: Actionable guidelines to safeguard humanity against AI mi
 Open-Source Resources: Tools, visual aids, and templates for community use and collaboration.
 
 Getting Started:
-Clone the Repository:
+Clone the Repository;
 
 To download the repository, use the following command:
 git clone https://github.com/AlignAGI/Alignment.git
