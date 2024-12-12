@@ -19,7 +19,7 @@ you can contact me directly:
 > ● **YouTube**:
 > [<u>youtube.com/@AlignAGI</u>](https://youtube.com/@AlignAGI)
 >
-> ● **Support** 
+> ● **Support;** 
 > To support this vital work, consider contributing to:
 >
 > ○ **Buy** **Me** **a** **Coffee**:
