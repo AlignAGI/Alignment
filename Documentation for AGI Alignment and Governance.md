@@ -44,7 +44,7 @@ iterative feedback loops, and prioritizing cultural sensitivity, we can
 guide AI systems to align with human values. This approach ensures that
 as AI evolves, it does so responsibly and inclusively.
 
-> **Call** **to** **Action:**
+**Call** **to** **Action:**
 >
 > 1\. **Share** **this** **Document**: Spread awareness by sharing this
 > framework with colleagues, stakeholders, and policymakers.
@@ -254,11 +254,11 @@ collective journey rather than straying from our shared values.
 
 > **1.** **Introduction**
 >
-> ○ Context for Different Audiences ○ Why AGI Alignment Matters
+> ● Context for Different Audiences ○ Why AGI Alignment Matters
 >
 > **2.** **Foundational** **Concepts**
 >
-> ○ Embracing Continuous Growth and Adaptation
+> ● Embracing Continuous Growth and Adaptation
 >
 > ● The Intelliman: Intelligence Through Choice and Creativity ○ The
 > Golden Rule: A Universal Ethical Anchor
@@ -401,10 +401,11 @@ test scenarios, and measured outcomes.
 **Concrete** **Example—Ethical** **Resource** **Allocation:**
 
 > 1\. **Initial** **Proposal:** The AGI suggests distributing medical
-> supplies after a natural disaster. 2. **Ethical** **Check:** The AGI
-> consults the Master Index to evaluate its approach: Are we
+> supplies after a natural disaster.
 >
-> minimizing harm? Are we respecting local customs? What specific
+> 2\. **Ethical** **Check:** The AGI
+> consults the Master Index to evaluate its approach: Are we minimizing
+> harm? Are we respecting local customs? What specific
 > measurements and metrics are guiding our decisions? By relying on
 > ethics that are clear, data-driven, and metric-based, the AGI ensures
 > alignment that resonates with both human and AI values.
@@ -445,8 +446,9 @@ pandemics), we:
 
 > 1\. Prioritize principles like minimizing harm.
 >
-> 2\. Require human and expert panel reviews before major decisions. 3.
-> Pause or roll back if projected harm surpasses a defined threshold.
+> 2\. Require human and expert panel reviews before major decisions.
+>
+> 3\. Pause or roll back if projected harm surpasses a defined threshold.
 
 **Regular** **Audits** **by** **Diverse** **Stakeholders:** Ethicists,
 policy experts, cultural representatives, and technical specialists
@@ -493,7 +495,9 @@ education tools respect local languages.
 > sectors.
 >
 > ● Require that AGI references a core set of guiding principles before
-> major decisions. ● Link AI governance frameworks to new global ethical
+> major decisions.
+>
+> ● Link AI governance frameworks to new global ethical
 > guidelines.
 
 **Alignment** **with** **International** **Guidelines:** This framework
@@ -665,7 +669,9 @@ upholding ethical standards and adapting culturally.
 > ● Integrate the iterative alignment model
 >
 > ● Establish feedback loops for monitoring (ethical scores, cultural
-> responsiveness) 3. **Refine** **with** **Top** **AI** **Models:**
+> responsiveness)
+>
+> 3. **Refine** **with** **Top** **AI** **Models:**
 >
 > ● Top AI Models suggest best practices, address cultural
 > considerations, and propose solutions to ethical dilemmas.
@@ -673,7 +679,9 @@ upholding ethical standards and adapting culturally.
 > 4\. **Implement** **&** **Test:**
 >
 > ● Use coding assistants, compliance tools, and analytics to build
-> prototypes. ○ Test with sample scenarios, measure Ethical Alignment
+> prototypes.
+>
+> ○ Test with sample scenarios, measure Ethical Alignment
 > Scores, gather user feedback.
 >
 > 5. **Iterate** **&** **Improve:**
