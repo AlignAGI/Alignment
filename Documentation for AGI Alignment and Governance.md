@@ -61,8 +61,6 @@ as AI evolves, it does so responsibly and inclusively.
 > regulations that enforce these easily explained, data-driven, metric
 > based principles on a global scale.
 
-Together, we can ensure AI remains a force for good.
-
 **ELI5** **Overview**
 
 Imagine this: You have a really smart helper that thinks carefully
